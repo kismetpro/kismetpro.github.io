@@ -8,3 +8,8 @@
 
 [Telegram](https://t.me/kismetpro666)  kismetpro666
         
+## 开发应用
+
+___
+安卓清理内存
+[内存闪清](https://wwa.lanzous.com/iIleLor5s3c)
