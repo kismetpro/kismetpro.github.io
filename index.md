@@ -12,4 +12,4 @@
 
 ___
 安卓清理内存
-[内存闪清](https://wwa.lanzous.com/iIleLor5s3c)
+[内存闪清](https://wwa.lanzoui.com/iFpLqf35e0h)
