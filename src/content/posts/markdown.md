@@ -1,11 +1,102 @@
 ---
-title: Markdown Example
-published: 2023-10-01
+title: Markdown 测试
+published: 2025-03-20
 description: A simple example of a Markdown blog post.
-tags: [Markdown, Blogging, Demo]
-category: Examples
+tags: [测试]
+category: 测试
 draft: false
 ---
+
+
+# Markdown 语法测试文档
+
+## 标题
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
+
+## 强调
+*斜体* 或 _斜体_  
+**粗体** 或 __粗体__  
+***粗斜体*** 或 ___粗斜体___  
+~~删除线~~  
+`行内代码`
+
+## 列表
+### 无序列表
+- Item 1
+- Item 2
+  - 子项 2a
+  - 子项 2b
+
+### 有序列表
+1. 第一项
+2. 第二项
+   1. 子项 2.1
+   2. 子项 2.2
+
+## 链接与图片
+[行内链接](https://example.com)  
+[引用式链接][1]  
+![图片描述](https://via.placeholder.com/150)  
+[1]: https://example.com
+
+## 代码块
+```python
+print("语法高亮代码块")
+```
+
+## 引用
+> 单层引用
+> > 嵌套引用
+
+## 表格
+| 左对齐 | 居中对齐 | 右对齐 |
+| :----- | :------: | -----: |
+| 单元格 | 单元格   | 单元格 |
+| 第二行 | 数据     | 数据   |
+
+## 分隔线
+---
+***
+___
+
+## 扩展语法
+### 任务列表
+- [x] 已完成任务
+- [ ] 未完成任务
+
+### 脚注
+这是一个带脚注的句子[1](@ref)
+[1](@ref): 脚注内容
+
+### 数学公式（需支持LaTeX）
+行内公式：$E = mc^2$  
+块级公式：
+$$
+\sum_{i=1}^{n} i = \frac{n(n+1)}{2}
+$$
+
+### 定义列表
+术语1
+: 定义描述1
+
+术语2
+: 定义描述2
+
+### 自动链接
+<https://example.com>
+
+### 高亮文本
+==标记文本==（需扩展支持）
+
+### 目录（部分解析器支持）
+[TOC]
+
+
 
 # An h1 header
 
